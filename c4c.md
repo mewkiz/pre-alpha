@@ -15,3 +15,4 @@ Output
       - Update percentage.
       - Side by side diff.
       - Only additions.
+   - Send notifications?
