@@ -10,3 +10,13 @@ Scan for the following vulnerabilities
    - Session fixation
    - LFI
    - etc.
+   - Create links to exploit-db
+
+Usable characters (for injection purposes)
+------------------------------------------
+   - Make injection map with similar interface to:
+      - http://jisho.org/kanji/radicals/
+	- or as a charset:
+		- abcdefghijklmnopqrtstuvwxyz'";
+	- or as regexp charset:
+		- [A-z!']
