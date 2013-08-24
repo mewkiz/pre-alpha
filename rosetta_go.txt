@@ -49,7 +49,6 @@ http://rosettacode.org/wiki/Morse_code
 http://rosettacode.org/wiki/Mouse_position
 http://rosettacode.org/wiki/Named_parameters
 http://rosettacode.org/wiki/OLE_Automation
-http://rosettacode.org/wiki/OpenGL
 http://rosettacode.org/wiki/Parametrized_SQL_statement
 http://rosettacode.org/wiki/Partial_function_application
 http://rosettacode.org/wiki/Pattern_matching
